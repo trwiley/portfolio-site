@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "Creative portfolio"
+title = "Taylor Wiley"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,11 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  style = "green"
+  description = "The portfolio of Taylor R. Wiley, a South Bend, IN based programmer and illustrator."
+  copyright = "&copy;2019 Taylor Wiley"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Programmer and illustrator based in South Bend, IN.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,16 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
-
-    # Optional Matomo analytics (formerly piwik)
-      # [params.analytics.matomo]
-      #  URL = "https://stats.example.com"
-      #  ID = "42"
-      #  # Track all subdomains with "*.example.com" (Optional)
-      #  domain = "www.example.com"
-      #  # Optional integrity check hash
-      #  hash = ""
+  email = "taylor.r.wiley@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -55,13 +45,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  email         = "taylor.r.wiley@gmail.com"
+  linkedin      = "https://www.linkedin.com/in/taylor-wiley-825561a3"
+  instagram     = "https://www.instagram.com/uncool_and_uncouth/"
+  github        = "https://github.com/trwiley"
