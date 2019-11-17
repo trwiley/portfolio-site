@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://trwiley.github.io"
 title = "Taylor Wiley"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
