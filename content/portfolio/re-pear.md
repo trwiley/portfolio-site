@@ -9,7 +9,7 @@ weight = 2
 
 Game made for Global Game Jam 2020 and a lesson in chosing your tools correctly and scoping.
 
-# Links
+## Links
 * [Godot Version](https://animerrill.itch.io/re-pear-godot)
 * [GBStudio Version](https://uncoolanduncouth.itch.io/repear)
 * [Assets](https://uncoolanduncouth.itch.io/fruits-and-friends)

@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/pottery.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Sonifying Asian Pottery Data"
-weight = 0
+weight = 4
 +++
 
 [![sonification video](http://img.youtube.com/vi/v-w4-Hlt9ag/0.jpg)](http://www.youtube.com/watch?v=v-w4-Hlt9ag)

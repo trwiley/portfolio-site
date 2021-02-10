@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "green"
-  description = "The portfolio of Taylor R. Wiley, a South Bend, IN based programmer and illustrator."
-  copyright = "&copy;2019 Taylor Wiley"
+  description = "The portfolio of Taylor R. Wiley, a South Bend, IN based designer, programmer and illustrator."
+  copyright = "&copy;2021 Taylor Wiley"
   sidebarAbout = [
-    "Programmer and illustrator based in South Bend, IN.",
+    "Designer, programmer and illustrator based in South Bend, IN.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
